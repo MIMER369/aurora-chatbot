@@ -1,0 +1,5 @@
+[
+  { "id": 1, "name": "Wireless Headphones", "price": 59.99 },
+  { "id": 2, "name": "Gaming Mouse",      "price": 39.99 },
+  { "id": 3, "name": "4K Monitor",        "price": 299.99 }
+]
