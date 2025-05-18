@@ -12,12 +12,12 @@
 3. Set your OpenAI API key:
    - Via environment variable:
      ```
-     export OPENAI_API_KEY="your_key_here"
+     export OPENAI_API_KEY="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"
      ```
    - Or edit `config.json` with your key:
      ```json
      {
-       "openai_api_key": "your_key_here"
+       "openai_api_key": "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"
      }
      ```
 4. Run the app:
